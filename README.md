@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Batuhan GÜLMEZ</h1>
 <h3 align="center">A passionate frontend developer from Sakarya, İstanbul.</h3>
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/d6/af/b6/d6afb6c5702631ed7e304d2ac40fb4f2.gif">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/media/a85c0dcdcc774c6f340b07518363d6fb.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=batuhangulmez&label=Profile%20views&color=0e75b6&style=flat" alt="batuhangulmez" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=batuhangulmez" alt="batuhangulmez" /></a> </p>
+
 
 - 🔭 I’m currently working on **HekimTAB**
 
@@ -19,6 +19,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/batuhanngulmez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="batuhanngulmez" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/batuhangülmez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="batuhangülmez" height="30" width="40" /></a>
 <a href="https://instagram.com/batuhanngulmez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="batuhanngulmez" height="30" width="40" /></a>
 </p>
 
