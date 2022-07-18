@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **HekimTAB**
 
-- 🌱 I’m currently learning **NodeJS**
+- 🌱 I’m currently learning **ReactJS**
 
 - 💬 Ask me about **ReactJS**
 
