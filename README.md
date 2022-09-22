@@ -6,7 +6,7 @@
 
 
 
-- 🔭 I’m currently working on **HekimTAB**
+- 🔭 I’m currently working on <a href="https://github.com/sozlernesriyat" target="_blank" rel="noopener noreferrer">**Sözler Neşriyat**</a>
 
 - 🌱 I’m currently learning **ReactJS**
 
@@ -18,9 +18,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/batuhanngulmez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="batuhanngulmez" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/batuhangülmez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="batuhangülmez" height="30" width="40" /></a>
-<a href="https://instagram.com/batuhanngulmez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="batuhanngulmez" height="30" width="40" /></a>
+<a href="https://twitter.com/batuhanngulmez" target="_blank" rel="noopener noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="batuhanngulmez" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/batuhangülmez" target="_blank" rel="noopener noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="batuhangülmez" height="30" width="40" /></a>
+<a href="https://instagram.com/batuhanngulmez" target="_blank" rel="noopener noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="batuhanngulmez" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
