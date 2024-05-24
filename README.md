@@ -5,9 +5,6 @@
 
 
 
-
-- 🔭 I’m currently working on <a href="https://github.com/sozlernesriyat" target="_blank" rel="noopener noreferrer">**Sözler Neşriyat**</a>
-
 - 🌱 I’m currently learning **ReactJS**
 
 - 💬 Ask me about **ReactJS**
